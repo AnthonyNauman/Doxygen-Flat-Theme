@@ -163,14 +163,15 @@ div.contents ul {
 #MSearchBox {
     border-radius: 0;
     box-shadow: none;
+    background-color: var(--bg2color);
 }
 
 #MSearchBox>span {
-    margin: 10px;
+    margin: 0px;
 }
 
 #main-menu>li:last-child {
-    padding: 25px 0px;
+    padding: 0px 0px;
 }
 
 /* Reset search hover color*/
@@ -190,6 +191,7 @@ div.contents ul {
 body.SRPage, body.SRPage * {
     font-family: Arial;
 }
+
 
 /* Sub Menu  */
 
